@@ -36,6 +36,78 @@ A **Professional Model United Nations Management System** designed to streamline
 - Firebase project with Firestore enabled
 - PyQt6 and dependencies
 
-### Installation
+### Application Settings
+- **Key URL**: Your Firebase configuration endpoint
+- **Collection Name**: Firestore collection for registrations
+- **Table Columns**: Customizable data fields
+- **Authentication**: MatterID integration settings
 
-1. **Clone the repository**
+## 📋 Usage
+
+### **For Conference Organizers**
+1. **Login** with MatterID credentials
+2. **Import/Export** delegate data via CSV
+3. **Manage Registrations** with real-time updates
+4. **Assign Committees** and portfolios
+5. **Track Payments** and attendance
+
+### **Data Management**
+- **Add/Edit Delegates**: Direct table editing
+- **Bulk Operations**: CSV import/export
+- **Search & Filter**: Quick delegate lookup
+- **Configuration**: Customizable interface
+
+- 
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Developer
+
+**Parth Chhabra (Elio Matters)**
+- Website: [eliomatters.com](https://eliomatters.com)
+- Email: support@eliomatters.com
+- GitHub: [@parthchhabraa](https://github.com/parthchhabraa)
+
+## 🏢 Company
+
+**MatterID Solutions**  
+Professional software solutions for educational and organizational management.
+
+## 📞 Support
+
+- 📧 **Email**: support@eliomatters.com
+- 🌐 **Website**: [eliomatters.com](https://eliomatters.com)
+- 📖 **Documentation**: [Wiki](https://github.com/parthchhabraa/MatterID/wiki)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/parthchhabraa/MatterID/issues)
+
+## 🔄 Version History
+
+- **v2.5.0** - Current stable release
+- **v2.0.0** - Major UI overhaul and Firebase integration
+- **v1.5.0** - MatterID authentication system
+- **v1.0.0** - Initial release
+
+## 🙏 Acknowledgments
+
+- Firebase team for excellent backend services
+- PyQt6 developers for the GUI framework
+- MUN community for feature requests and feedback
+
+---
+
+**Made with ❤️ for the Model United Nations community**
+
+*MatterID Manager - Streamlining MUN conferences worldwide*
+
+
